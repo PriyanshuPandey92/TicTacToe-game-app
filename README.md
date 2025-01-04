@@ -1,1 +1,1 @@
-# game-app
+# Tic-Tac-Toe Game Application
